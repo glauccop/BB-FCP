@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>number,state,sys_created_on,short_description,u_descricao</field_list>
+        <filter table="x_snc_bb_app1_fale_com_presidente">active=true^opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>20</maximum_entries>
+        <order>1</order>
+        <order_by>sys_created_on</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">cb500c5f1be104108ec9fc468d4bcb9f</sp_column>
+        <sp_page display_value="ticket_bb">a44327831ba104108ec9fc468d4bcba8</sp_page>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 02:54:45</sys_created_on>
+        <sys_id>df604c5f1be104108ec9fc468d4bcb96</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Minhas Perguntas Enviadas</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sp_instance_table_df604c5f1be104108ec9fc468d4bcb96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 05:19:13</sys_updated_on>
+        <table>x_snc_bb_app1_fale_com_presidente</table>
+        <title>Minhas Perguntas Enviadas</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=df604c5f1be104108ec9fc468d4bcb96"/>
+</record_update>

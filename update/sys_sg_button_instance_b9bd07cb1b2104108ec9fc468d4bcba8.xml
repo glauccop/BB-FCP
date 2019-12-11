@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Fale com Presidente)">71bd07cb1b2104108ec9fc468d4bcba8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Fale com Presidente)</name>
+        <order/>
+        <parent>39bd07cb1b2104108ec9fc468d4bcba5</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 23:13:11</sys_created_on>
+        <sys_id>b9bd07cb1b2104108ec9fc468d4bcba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Fale com Presidente)</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b9bd07cb1b2104108ec9fc468d4bcba8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 23:13:11</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b9bd07cb1b2104108ec9fc468d4bcba8"/>
+</record_update>

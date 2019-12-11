@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">523f974f1b6104108ec9fc468d4bcb4f</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 00:31:03</sys_created_on>
+        <sys_id>9e8f5b8f1b6104108ec9fc468d4bcbff</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sp_instance_9e8f5b8f1b6104108ec9fc468d4bcbff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 00:31:37</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p>.</p>",
+		"displayValue": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>.</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9e8f5b8f1b6104108ec9fc468d4bcbff"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</application>
+        <file_path/>
+        <instance_id>98bd2529dbbfb3444d2bac44d49619f2</instance_id>
+        <instance_name>nowdemo</instance_name>
+        <name>sp_instance_9e8f5b8f1b6104108ec9fc468d4bcbff</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;523f974f1b6104108ec9fc468d4bcb4f&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-11 00:31:03&lt;/sys_created_on&gt;&lt;sys_id&gt;9e8f5b8f1b6104108ec9fc468d4bcbff&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1"&gt;200cc74b1b2104108ec9fc468d4bcb76&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Fale com o Presidente"&gt;200cc74b1b2104108ec9fc468d4bcb76&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_9e8f5b8f1b6104108ec9fc468d4bcbff&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-11 00:31:37&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;&lt;br data-mce-bogus=\"1\"&gt;&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;.&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9e8f5b8f1b6104108ec9fc468d4bcbff"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-197849526</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a80ccb4b1b2104108ec9fc468d4bcb36</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 00:31:37</sys_created_on>
+        <sys_id>a6af9b8f1b6104108ec9fc468d4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef25e511d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 00:31:37</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>22af9b8fa4610410aa7792d64a7d5aa6</update_guid>
+        <update_guid_history>22af9b8fa4610410aa7792d64a7d5aa6:-197849526,7c9f9b8fb2610410ffa2b6d265e74ea1:159059789,568f9b8f04610410978dd29cb1a6f101:-250896269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0c799c5b1b6504108ec9fc468d4bcb5f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 04:44:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>12263a1f95a941ee8c8fb115385ce369</sys_id>
+        <sys_metadata>9e8f5b8f1b6104108ec9fc468d4bcbff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_scope_delete display_value="">37578d1e5a6f4df8b42ac4965616afc4</sys_scope_delete>
+        <sys_update_name>sp_instance_9e8f5b8f1b6104108ec9fc468d4bcbff</sys_update_name>
+        <sys_update_version display_value="sp_instance_9e8f5b8f1b6104108ec9fc468d4bcbff">a6af9b8f1b6104108ec9fc468d4bcba6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 04:44:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

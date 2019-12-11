@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Fale com Presidente)">3dbd07cb1b2104108ec9fc468d4bcbae</button>
+        <item_parameter display_value="Fale com Presidente short_description">b9bd07cb1b2104108ec9fc468d4bcbaa</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 23:13:12</sys_created_on>
+        <sys_id>75bd07cb1b2104108ec9fc468d4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9bd07cb1b2104108ec9fc468d4bcbaa</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_75bd07cb1b2104108ec9fc468d4bcbb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 23:13:12</sys_updated_on>
+        <ui_parameter display_value="Short description">75bd07cb1b2104108ec9fc468d4bcbb0</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

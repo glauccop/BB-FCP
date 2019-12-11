@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>@media (max-width: 767px) {
+  .wrapper-xl {
+    padding: 25px 15px !important;
+  }
+  .text-4x {
+    font-size: 3em;
+  }
+}</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">c25dd4db1ba504108ec9fc468d4bcb15</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 05:01:06</sys_created_on>
+        <sys_id>0a5dd4db1ba504108ec9fc468d4bcb17</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Fale com o Presidente</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sp_instance_0a5dd4db1ba504108ec9fc468d4bcb17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 05:03:50</sys_updated_on>
+        <title>Fale com o Presidente</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"wrapper-xl welcome\"><h1 class=\"text-white text-4x\">${Aplicação </h1><h1 class=\"text-white text-4x\">Fale com o Presidente}</h1><h3 class=\"text-white\">${Faça do Banco do Brasil, um lugar de todos !}</h3></div>",
+		"displayValue": "<div class=\"wrapper-xl welcome\">\n<h1 class=\"text-white text-4x\">${Aplica&ccedil;&atilde;o</h1>\n<h1 class=\"text-white text-4x\">Fale com o Presidente}</h1>\n<h3 class=\"text-white\">${Fa&ccedil;a do Banco do Brasil, um lugar de todos !}</h3>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0a5dd4db1ba504108ec9fc468d4bcb17"/>
+</record_update>

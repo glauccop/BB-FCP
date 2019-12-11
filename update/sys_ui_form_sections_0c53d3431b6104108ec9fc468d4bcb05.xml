@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0c53d3431b6104108ec9fc468d4bcb05" sys_domain="global" table="x_snc_bb_app1_fale_com_presidente" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:52:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fa6db071b6104108ec9fc468d4bcbda</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_bb_app1_fale_com_presidente" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb05</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">07a6db071b6104108ec9fc468d4bcb94</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:52:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:37:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0453d3431b6104108ec9fc468d4bcb09</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_bb_app1_fale_com_presidente" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb05</sys_ui_form>
+            <sys_ui_section caption="Solicitante" display_value="Solicitante" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">805393431b6104108ec9fc468d4bcb3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:37:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:37:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc53d3431b6104108ec9fc468d4bcb0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_bb_app1_fale_com_presidente" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb05</sys_ui_form>
+            <sys_ui_section caption="Encaminhamento" display_value="Encaminhamento" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">cc53d3431b6104108ec9fc468d4bcb02</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:37:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:37:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c453d3431b6104108ec9fc468d4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_bb_app1_fale_com_presidente" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb05</sys_ui_form>
+            <sys_ui_section caption="Notas de Trabalho" display_value="Notas de Trabalho" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb03</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:37:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:37:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c053d3431b6104108ec9fc468d4bcb14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_bb_app1_fale_com_presidente" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">0c53d3431b6104108ec9fc468d4bcb05</sys_ui_form>
+            <sys_ui_section caption="Resposta ao Solicitante" display_value="Resposta ao Solicitante" name="x_snc_bb_app1_fale_com_presidente" sys_domain="global" view="Default view">4853d3431b6104108ec9fc468d4bcb04</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:37:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_bb_app1_fale_com_presidente</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-10 23:37:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c53d3431b6104108ec9fc468d4bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_bb_app1_fale_com_presidente</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0c53d3431b6104108ec9fc468d4bcb05</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-10 23:37:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.empty-state-content {
+  background-color: rgba(58, 63, 81, 0.7);
+  color: $gray-light;
+}
+
+.list-group-item {
+  background-color: rgba(58, 63, 81, 0.7);
+  border: 0px solid transparent;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.60);
+}
+
+.list-group-item:last-child {
+  border: 0px solid transparent;
+}
+
+.panel-heading {
+  background-color: rgba(138, 143, 160, 0.6);
+  border-bottom: 0px solid transparent;
+  color: #fff;
+}
+
+.panel {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: none;
+}
+
+.panel-footer {
+  display: none;
+}
+
+a {
+color: #fff;
+}
+
+.text-muted {
+  color: #fff;
+}</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">025dd4db1ba504108ec9fc468d4bcb1c</sp_column>
+        <sp_widget display_value="Popular Questions">e0c3a791d721120023c84f80de610304</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 05:01:06</sys_created_on>
+        <sys_id>ce5dd4db1ba504108ec9fc468d4bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sp_instance_ce5dd4db1ba504108ec9fc468d4bcb1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 05:01:06</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce5dd4db1ba504108ec9fc468d4bcb1f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</application>
+        <file_path/>
+        <instance_id>98bd2529dbbfb3444d2bac44d49619f2</instance_id>
+        <instance_name>nowdemo</instance_name>
+        <name>sp_instance_ce5dd4db1ba504108ec9fc468d4bcb1f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css>.empty-state-content {
+  background-color: rgba(58, 63, 81, 0.7);
+  color: $gray-light;
+}
+
+.list-group-item {
+  background-color: rgba(58, 63, 81, 0.7);
+  border: 0px solid transparent;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.60);
+}
+
+.list-group-item:last-child {
+  border: 0px solid transparent;
+}
+
+.panel-heading {
+  background-color: rgba(138, 143, 160, 0.6);
+  border-bottom: 0px solid transparent;
+  color: #fff;
+}
+
+.panel {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: none;
+}
+
+.panel-footer {
+  display: none;
+}
+
+a {
+color: #fff;
+}
+
+.text-muted {
+  color: #fff;
+}</css><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">025dd4db1ba504108ec9fc468d4bcb1c</sp_column><sp_widget display_value="Popular Questions">e0c3a791d721120023c84f80de610304</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-11 05:01:06</sys_created_on><sys_id>ce5dd4db1ba504108ec9fc468d4bcb1f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package><sys_policy/><sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope><sys_update_name>sp_instance_ce5dd4db1ba504108ec9fc468d4bcb1f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-11 05:01:06</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=ce5dd4db1ba504108ec9fc468d4bcb1f"/></record_update>]]></payload>
+        <payload_hash>71836079</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a80ccb4b1b2104108ec9fc468d4bcb36</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 05:01:06</sys_created_on>
+        <sys_id>8a5dd4db1ba504108ec9fc468d4bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef35509000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 05:01:06</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c25dd4db93a50410a82123bda8e1c621</update_guid>
+        <update_guid_history>c25dd4db93a50410a82123bda8e1c621:71836079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">568d18db1ba504108ec9fc468d4bcb08</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 05:01:56</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3eaacb90b6184db1a4f09d52c30bd6b9</sys_id>
+        <sys_metadata>ce5dd4db1ba504108ec9fc468d4bcb1f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_scope_delete display_value="">37578d1e5a6f4df8b42ac4965616afc4</sys_scope_delete>
+        <sys_update_name>sp_instance_ce5dd4db1ba504108ec9fc468d4bcb1f</sys_update_name>
+        <sys_update_version display_value="sp_instance_ce5dd4db1ba504108ec9fc468d4bcb1f">8a5dd4db1ba504108ec9fc468d4bcb21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 05:01:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

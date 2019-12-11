@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Fale com Presidente</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Fale com Presidente</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6371b5a51b333300405a7669cc4bcbc2</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 23:11:45</sys_created_on>
+        <sys_id>ac6dcf8b1b2104108ec9fc468d4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fale com Presidente</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sys_wizard_answer_ac6dcf8b1b2104108ec9fc468d4bcba0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 23:11:45</sys_updated_on>
+        <table/>
+        <target_url>x_snc_bb_app1_fale_com_presidente.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

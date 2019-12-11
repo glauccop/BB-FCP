@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Banco do Brasil">53f8a30b1ba104108ec9fc468d4bcbd4</sc_catalog>
+        <sp_portal display_value="Fale com o Presidente">0a0753471b6104108ec9fc468d4bcb8e</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 01:16:07</sys_created_on>
+        <sys_id>e2d92f0b1ba104108ec9fc468d4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Banco do Brasil.Fale com o Presidente</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_e2d92f0b1ba104108ec9fc468d4bcb29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 01:16:07</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

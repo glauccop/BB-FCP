@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Fale com o Presidente Fale com Presidente</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 23:13:11</sys_created_on>
+        <sys_id>fdbd07cb1b2104108ec9fc468d4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fale com o Presidente Fale com Presidente</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sys_sg_data_item_fdbd07cb1b2104108ec9fc468d4bcb9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 23:13:11</sys_updated_on>
+        <table>x_snc_bb_app1_fale_com_presidente</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=fdbd07cb1b2104108ec9fc468d4bcb9f"/>
+</record_update>

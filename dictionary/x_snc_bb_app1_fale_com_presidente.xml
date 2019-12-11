@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Fale com Presidente" max_length="40" name="x_snc_bb_app1_fale_com_presidente" type="collection">
+        <element label="Descrição" mandatory="true" max_length="65536" name="u_descricao" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Diretoria" max_length="40" name="u_diretoria" type="string">
+            <choice>
+                <element inactive_on_update="false" label="DITEC" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="DIREO" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="DISIN" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="DISEC" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="Encaminhar?" max_length="40" name="u_encaminhar" type="boolean"/>
+        <element label="Resposta" max_length="65536" name="u_resposta" type="html"/>
+    </element>
+</database>

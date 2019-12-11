@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Fale com o Presidente">624567071ba104108ec9fc468d4bcb4c</sc_cat_item>
+        <sc_catalog display_value="Banco do Brasil">53f8a30b1ba104108ec9fc468d4bcbd4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 01:14:04</sys_created_on>
+        <sys_id>58696b0b1ba104108ec9fc468d4bcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Banco do Brasil.Fale com o Presidente</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_58696b0b1ba104108ec9fc468d4bcb86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 01:14:04</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

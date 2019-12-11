@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_bb_app1_fale_com_presidente">state=11^EQ<item display_value="Revisar &amp; Publicar" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="11"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Revisar &amp; Publicar</label>
+        <name>Revisar &amp; Publicar</name>
+        <order>40</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 23:48:02</sys_created_on>
+        <sys_id>c29597c31b6104108ec9fc468d4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Revisar &amp; Publicar</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_bb_app1">200cc74b1b2104108ec9fc468d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">200cc74b1b2104108ec9fc468d4bcb76</sys_scope>
+        <sys_update_name>sys_process_flow_c29597c31b6104108ec9fc468d4bcb3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 23:48:02</sys_updated_on>
+        <table>x_snc_bb_app1_fale_com_presidente</table>
+    </sys_process_flow>
+</record_update>
